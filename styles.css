@@ -2,16 +2,19 @@ p{
 	font-family:sans-serif; 
 	color:#000FF;
 	}
-	#awesomeText {font-family:'Times New Roman', Georgia, Serif:}
+	
+	#awesomeText {font-family:'Times New Roman'}
 	.soft {color:red;}
 	.center {text-align: center;}
 	.container {margin: 0 auto;}
 		
-	
 body{
-	background-image: url("hawks.png");
+	background-color: #D8D8D8;
+		
 }
 
-h3 {
-	border-style: solid;}
+div{
+	border-style: dotted;
+	}
+	
 	
