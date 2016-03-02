@@ -3,6 +3,15 @@ p{
 	color:#000FF;
 	}
 	#awesomeText {font-family:'Times New Roman', Georgia, Serif:}
-	.soft {color:#a8a8a8;}
+	.soft {color:red;}
 	.center {text-align: center;}
 	.container {margin: 0 auto;}
+		
+	
+body{
+	background-image: url("hawks.png");
+}
+
+h3 {
+	border-style: solid;}
+	
